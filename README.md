@@ -23,6 +23,12 @@ I am a high-achieving Business Analytics student (CGPA 3.87) at **Universiti Mal
   [cite_start]<i>Interactive session: Analyzing crime patterns and ICT literacy trends[cite: 29, 43].</i>
 </p>
 
+<p align="center">
+  <img src="RecordTableau-ezgif.com-video-to-gif-converter.gif" width="800" alt="Tableau Dashboard Walkthrough">
+  <br>
+  [cite_start]<i>Interactive session: Analyzing crime patterns and ICT literacy trends[cite: 29, 43].</i>
+</p>
+
 ### 🚀 Featured Projects
 
 #### 🏆 [AI Re-Biz Simulator (SDG1)]
