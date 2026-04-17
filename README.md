@@ -20,13 +20,13 @@ I am a high-achieving Business Analytics student (CGPA 3.87) at **Universiti Mal
 <p align="center">
   <img src="RecordTableau-ezgif.com-video-to-gif-converter.gif" width="800" alt="Tableau Dashboard Walkthrough">
   <br>
-  [cite_start]<i>Interactive session: Analyzing crime patterns and ICT literacy trends[cite: 29, 43].</i>
+  <i>Interactive session: Analyzing crime patterns and ICT literacy trends in California.</i>
 </p>
 
 <p align="center">
-  <img src="RecordTableau-ezgif.com-video-to-gif-converter.gif" width="800" alt="Tableau Dashboard Walkthrough">
+  <img src="CasesInIndia-ezgif.com-video-to-gif-converter.gif" width="800" alt="Tableau Dashboard Walkthrough">
   <br>
-  [cite_start]<i>Interactive session: Analyzing crime patterns and ICT literacy trends[cite: 29, 43].</i>
+  <i>Interactive session: Analyzing Rape Cases Patterns in India.</i>
 </p>
 
 ### 🚀 Featured Projects
